@@ -1,8 +1,8 @@
 ## アプリケーション名
 「じぶんメモ」
 
-↓ メイン画面
-メイン画面
+↓ メイン画面  
+<img src="https://user-images.githubusercontent.com/83963218/131286668-7e757eac-7b7d-4605-b27d-b0f791bd8f55.png"  title="メイン画面" width="310" height="400">
 
 ## アプリケーション概要
 体のサイズや、免許証の更新期限、住所、誕生日など身の回りのことをメモできるアプリです。
@@ -35,7 +35,8 @@ https://play.google.com/store/apps/details?id=com.websarva.wings.android.zibunme
 住所をメモしたい場合は、Addressボタンをタップして入力します。  
 
 ↓ DATEメモの画面  
-DATEメモ画面
+<img src="https://user-images.githubusercontent.com/83963218/131286921-4f3a70fd-f86f-4ccd-9701-173f45a3e003.png"  title="DATEメモ画面" width="310" height="400">
+
 
 ## 目指した課題解決
 一般的なメモアプリの場合、メモをどんどん追加していくと目的の情報が取り出しにくくなったり、そもそもメモしていること自体を忘れてしまうというデメリットがあります。  
